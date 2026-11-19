@@ -1,0 +1,5 @@
+customer_id,name,city,email
+1,John,London,john@gmail.com
+2,Alice,,alice@gmail.com
+3,Bob,Liverpool,
+4,,Manchester,bob@gmail.com

@@ -13,3 +13,12 @@ A beginner Data Engineering project built with Python and Pandas.
 - GitHub
 # Project Structure
 - data/ -> Input CSV files src/ -> ETL code output/ -> Generated reports
+
+
+# Day 2
+
+Implementated data cleaning pipline:
+- Idenified missing values
+- Applied fillna()
+- Standardized text field 
+- Exported cleaned customer dataset
