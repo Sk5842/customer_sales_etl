@@ -22,3 +22,13 @@ Implementated data cleaning pipline:
 - Applied fillna()
 - Standardized text field 
 - Exported cleaned customer dataset
+
+# Day 3
+
+Added sales analysis module.
+
+Features:
+
+- Customer sales ranking
+- Group-based calculations
+- Aggregated reporting
